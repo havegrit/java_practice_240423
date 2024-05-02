@@ -1,4 +1,4 @@
-package se02_string.EX04_PlusOperationOfString;
+package sec02_string.EX04_PlusOperationOfString;
 
 public class PlusOperationOfString {
 	public static void main(String[] args) {
